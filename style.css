@@ -1,0 +1,11 @@
+.strelka{
+    width: 100px;
+}
+
+
+@media(max-width:767px){
+    .nav{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+}
